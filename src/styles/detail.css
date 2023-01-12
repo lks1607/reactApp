@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.datail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 15px -3px #000000;
+    padding: 25px 25px;
+    border-radius: 20px;
+}
